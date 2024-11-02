@@ -14,7 +14,7 @@ public class FileCopy
 		}
 		fin.close();
 		fout.close();
-		System.out.println("Copied Content Of The File");
+		System.out.println("Succesfully Wrote To The Specififed File");
 		}
 		catch(FileNotFoundException e)
 		{
